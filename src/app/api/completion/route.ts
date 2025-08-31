@@ -2,10 +2,13 @@ import { generateText } from "ai";
 import { google } from "@ai-sdk/google";
 
 
-const { text } = await generateText({
-    model: google("models/gemini-2.0-flash-exp"),
-    prompt: "What is love?"
-    })
+
     
 
-export async function POST() {}
+export async function POST() {
+    const { text } = await generateText({
+        model: google("models/gemini-2.0-flash-exp"),
+        prompt: "What is love?"
+        });
+        return Response.json({ text });
+}
