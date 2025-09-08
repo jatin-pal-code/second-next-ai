@@ -70,18 +70,4 @@ export default function CompletionPage() {
       </form>
     </div>
   );
-} 
-
-
-// nghg
-// gngj
-// dijdip
-// dfidid
-//jhhdsv
-//////jfhifjif8
-//efhfijmj
-fdfhhi
-fihdibajjkxnknghg
-xjxkn
-xjbxn
-
+}
