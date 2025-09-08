@@ -84,8 +84,4 @@ fdfhhi
 fihdibajjkxnknghg
 xjxkn
 xjbxn
-xjan
-dsvkygyy
-dnvk
 
-fradk asark jii jatin pal mku 
