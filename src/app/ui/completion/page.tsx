@@ -70,7 +70,4 @@ export default function CompletionPage() {
       </form>
     </div>
   );
-}jwt
-auth
-
-build dev sec]]]hv
+}GET HIGH OUGT
